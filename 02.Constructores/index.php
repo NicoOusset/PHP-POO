@@ -12,5 +12,5 @@
     // var_dump($coche3);
 
     echo $coche->mostrarInformacion($coche1);
-    echo $coche->mostrarInformacion("hola mundo");
+    
 ?>

@@ -9,12 +9,15 @@
         public $marca = "ferrari";
         public $modelo = "aventador";
         public $velocidad = 30;
+    
         
         //metodos, acciones (antes eran funciones)
         public function getColor(){
             //this es en esta clase
             return $this->color;
         }
+
+        
 
         public function setColor($color){
             $this->color = $color;
