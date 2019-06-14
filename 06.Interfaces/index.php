@@ -17,6 +17,7 @@
             return $this->modelo;
         }
 
+        //jt
         public function setModelo($modelo){
             $this->modelo=$modelo;
         }
